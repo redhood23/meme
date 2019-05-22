@@ -1,0 +1,68 @@
+/*
+*
+{
+    
+    margin: 0;
+    padding: 0;
+}
+
+
+header
+{
+    
+    
+    background-image: url(lockedflower.3JPG.JPG);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+    
+
+}
+
+*/
+
+        
+body {
+
+  background-image: url(assets/img/lockedflower3.JPG);
+    height: auto;
+    background-size: cover;
+    background-position: center;
+
+}
+
+h1 {
+  color: coral;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+a{color: coral;}
+
+a:hover{color:burlywood;}
+
+a:visited{color:yellowgreen;}
+
+
+h2{
+    color:yellowgreen;
+    text-align: center;
+}
+
+
+i{
+    color: coral;
+}
+
+
+p{
+    
+    color: yellowgreen;
+    text-align: center
+}
+
